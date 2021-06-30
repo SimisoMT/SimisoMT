@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SimisoMT
-- 👀 I’m interested in Software development and networking, I currently use PHP,MySQL,JavaScript,HTML,CSS,Visual Basic.NET
-- 🌱 I’m currently learning bootStrap and NodeJS framework
-- 💞️ I’m currently looking to collaborate on Web development
-- 📫 You can reach me at simisomt@gmail.com
+-Hi, I’m Simiso Mthiyane
+-I’m interested in Software development and networking, I currently use PHP,MySQL,JavaScript,HTML,CSS,Visual Basic.NET
+-I’m currently learning bootStrap and NodeJS framework
+-I’m currently looking to collaborate on Web development
+-You can reach me at simisomt@gmail.com
